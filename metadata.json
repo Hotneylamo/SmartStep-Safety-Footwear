@@ -1,0 +1,8 @@
+{
+  "name": "SmartStep: IoT-Enabled Integrated Advanced Safety Footwear",
+  "description": "ABET SO3-compliant engineering project and Google Site architecture for the Integrated Advanced Safety Shoe by KMUTNB Department of Mechanical and Aerospace Engineering.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
